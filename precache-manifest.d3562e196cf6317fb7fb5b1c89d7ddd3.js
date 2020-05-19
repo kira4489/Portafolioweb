@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3569ae8b53201ceb54af0cce12c731d8",
+    "revision": "2d06101c859d5feb91f3d29f7ea144a8",
     "url": "/Portafolioweb/index.html"
   },
   {
-    "revision": "272f0d5194d7859dda59",
+    "revision": "24ccb2063e3569cc67e4",
     "url": "/Portafolioweb/static/css/main.4a5f35ff.chunk.css"
   },
   {
-    "revision": "8d965858cc75a675a37d",
-    "url": "/Portafolioweb/static/js/2.05c13572.chunk.js"
+    "revision": "9ba1554246a66008c7a1",
+    "url": "/Portafolioweb/static/js/2.cf016201.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Portafolioweb/static/js/2.05c13572.chunk.js.LICENSE.txt"
+    "url": "/Portafolioweb/static/js/2.cf016201.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "272f0d5194d7859dda59",
-    "url": "/Portafolioweb/static/js/main.f6c22929.chunk.js"
+    "revision": "24ccb2063e3569cc67e4",
+    "url": "/Portafolioweb/static/js/main.093fad2c.chunk.js"
   },
   {
     "revision": "6da3c543e3031fea5460",
     "url": "/Portafolioweb/static/js/runtime-main.3bab8850.js"
   },
   {
-    "revision": "1886ccbd6d409cf144f3dd6f1ec34266",
-    "url": "/Portafolioweb/static/media/marea.1886ccbd.jpg"
+    "revision": "c2d32b96dad59f77db1c3b28885dea4e",
+    "url": "/Portafolioweb/static/media/Marea.c2d32b96.jpeg"
+  },
+  {
+    "revision": "5bda250cd864119dccba6898a1f63a32",
+    "url": "/Portafolioweb/static/media/marea2.5bda250c.jpg"
   },
   {
     "revision": "862ea93fe26a26553e45806777c69b61",

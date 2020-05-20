@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portafolioweb/static/css/main.1c902294.chunk.css",
+    "main.css": "/Portafolioweb/static/css/main.88a942f7.chunk.css",
     "main.js": "/Portafolioweb/static/js/main.000ee878.chunk.js",
     "main.js.map": "/Portafolioweb/static/js/main.000ee878.chunk.js.map",
     "runtime-main.js": "/Portafolioweb/static/js/runtime-main.3bab8850.js",
@@ -8,9 +8,9 @@
     "static/js/2.cca1452b.chunk.js": "/Portafolioweb/static/js/2.cca1452b.chunk.js",
     "static/js/2.cca1452b.chunk.js.map": "/Portafolioweb/static/js/2.cca1452b.chunk.js.map",
     "index.html": "/Portafolioweb/index.html",
-    "precache-manifest.9fa17784fa96b284a34f72028104e988.js": "/Portafolioweb/precache-manifest.9fa17784fa96b284a34f72028104e988.js",
+    "precache-manifest.4c059d145cc9a97c6eb84c9f0473681f.js": "/Portafolioweb/precache-manifest.4c059d145cc9a97c6eb84c9f0473681f.js",
     "service-worker.js": "/Portafolioweb/service-worker.js",
-    "static/css/main.1c902294.chunk.css.map": "/Portafolioweb/static/css/main.1c902294.chunk.css.map",
+    "static/css/main.88a942f7.chunk.css.map": "/Portafolioweb/static/css/main.88a942f7.chunk.css.map",
     "static/js/2.cca1452b.chunk.js.LICENSE.txt": "/Portafolioweb/static/js/2.cca1452b.chunk.js.LICENSE.txt",
     "static/media/Marea.jpeg": "/Portafolioweb/static/media/Marea.c2d32b96.jpeg",
     "static/media/codigo.png": "/Portafolioweb/static/media/codigo.628951ec.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bab8850.js",
     "static/js/2.cca1452b.chunk.js",
-    "static/css/main.1c902294.chunk.css",
+    "static/css/main.88a942f7.chunk.css",
     "static/js/main.000ee878.chunk.js"
   ]
 }
